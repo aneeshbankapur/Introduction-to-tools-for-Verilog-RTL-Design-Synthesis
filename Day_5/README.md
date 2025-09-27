@@ -87,13 +87,13 @@ always @(*) begin
 end
 endmodule
 ```
-![in_comp_if](https://github.com/user-attachments/assets/91d1cc1d-bb3a-4ea8-a272-363414777868)
+![in_comp_if](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/bca50dea501c4daf466c544e5b2414d92e8c4756/Day_5/lab1.png)
 
 ---
 
 ### Lab 2: Synthesis Result of Lab 1
 
-![incomp_synth](https://github.com/user-attachments/assets/691045e7-39e0-4e6c-98bd-511b501fbe35)
+![incomp_synth](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/2eb27aa65a59c7a32377274de1662d2fed8c4395/Day_5/lab2.png)
 
 ---
 
@@ -109,13 +109,13 @@ always @(*) begin
 end
 endmodule
 ```
-![icomp2](https://github.com/user-attachments/assets/2f614956-e4af-4d29-80ae-13a167e7831d)
+![icomp2](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/48e163d860a0fadd50d5b900a21ce1444cfc2e38/Day_5/lab3.png)
 
 ---
 
 ### Lab 4: Synthesis Result of Lab 3
 
-![incomp2synth](https://github.com/user-attachments/assets/880ff7bb-23fb-4362-bf8f-a2494a854b53)
+![incomp2synth](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/9de199a2212d712a251529e381303b123980c81c/Day_5/lab4.png)
 
 ---
 
@@ -132,13 +132,13 @@ always @(*) begin
 end
 endmodule
 ```
-![compcase](https://github.com/user-attachments/assets/cfe97c45-a487-4f06-b4a2-74b3a61bee14)
+![compcase](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/992e8be94ee65110f6d3adbd4cd7dedf991b052f/Day_5/lab5.png)
 
 ---
 
 ### Lab 6: Synthesis Result of Lab 5
 
-![compcase_synth](https://github.com/user-attachments/assets/8c871511-6e55-4e80-be11-86e9efd87cad)
+![compcase_synth](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/e9e8c2b91f7c020eab99858b2eebd82c6fd753e4/Day_5/lab6.png)
 
 ---
 
@@ -160,7 +160,7 @@ always @(*) begin
 end
 endmodule
 ```
-![badcase](https://github.com/user-attachments/assets/4ccf37aa-5502-4750-bedb-9b2ec0748a53)
+![badcase](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/243fdf9f06f77c3be99073c930cae38d1c1295e8/Day_5/lab7.png)
 
 ---
 
@@ -275,7 +275,7 @@ always @(*) begin
 end
 endmodule
 ```
-![mux_generate](https://github.com/user-attachments/assets/80789638-c349-44a9-92f4-7597d5925c63)
+![mux_generate](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/a26488a75831c3ecb14a78b5e7e05059dec8bc88/Day_5/lab9.png)
 
 ---
 
@@ -305,7 +305,7 @@ always @(*) begin
 end
 endmodule
 ```
-![demux-case](https://github.com/user-attachments/assets/1836a255-e260-47de-9a8e-45899b19fc03)
+![demux-case](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/4a385ab354afb52152e25009f5b5e7e36fd6f588/Day_5/lab10.png)
 
 ---
 
@@ -330,7 +330,7 @@ always @(*) begin
 end
 endmodule
 ```
-![demux-generate](https://github.com/user-attachments/assets/a5a2c004-a16f-44cd-8d80-c23f1c932e6c)
+![demux-generate](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/d942524d5871bf3cc78f3fe5778138a806efb55a/Day_5/lab11.png)
 
 ---
 
@@ -364,11 +364,11 @@ module fa (input a, input b, input c, output co, output sum);
     assign {co, sum} = a + b + c;
 endmodule
 ```
-![rca_org](https://github.com/user-attachments/assets/1d8876f9-e303-4a73-945e-97756a37bb73)
+![rca_org](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/be4ab893a2d4614fd74758b3bfbf6ccecfa110d5/Day_5/lab12.png)
 
 ---
 
-> **Note:** Steps to perform the above labs are already shown in [Day 1](https://github.com/Ahtesham18112011/RTL_workshop/tree/main/Day_1).
+> **Note:** Steps to perform the above labs are already shown in [Day 1](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/be4ab893a2d4614fd74758b3bfbf6ccecfa110d5/Day_1/README.md)
 
 ---
 
