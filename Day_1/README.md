@@ -172,10 +172,10 @@ Let’s synthesize the `good_mux` design using Yosys!
 ---
 ## 7. Summary
 
-- You learned about simulators, designs, and testbenches.
-- You ran your first Verilog simulation with iverilog and visualized waveforms.
-- You analyzed the 2-to-1 mux code.
-- You explored Yosys and learned why gate libraries have various flavors.
+- Basics of simulators, designs, and testbenches.
+- Ran first Verilog simulation with iverilog and visualized waveforms.
+- Analyzed the 2-to-1 mux code.
+- Explored Yosys and learned why gate libraries have various flavors.
 
 
 ---
