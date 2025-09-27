@@ -18,6 +18,10 @@ The **design** is actual hardware description you wrote (in Verilog/VHDL) that i
 
 A **testbench** is a separate Verilog/VHDL file that applies inputs and checks outputs of the design in the simulator to verify its correctness.
 
+<div align="center">
+  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/16a9b52654822bcf5b67c9eea68427bdd053b120/Day_1/gtkwave_sim.png" alt="GTKWave Example" width="70%">
+</div>
+
 ---
 
 ## 2. Getting Started with iverilog
@@ -25,7 +29,7 @@ A **testbench** is a separate Verilog/VHDL file that applies inputs and checks o
 **iverilog** is an open-source simulator for Verilog. Here’s the typical simulation flow:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ca190fb-cfa4-4abb-b9e1-0151b3c4bdba" alt="iverilog Simulation Flow" width="70%">
+  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/16a9b52654822bcf5b67c9eea68427bdd053b120/Day_1/iverilog%20block%20diagram.png" alt="iverilog Simulation Flow" width="70%">
 </div>
 
 - Both the design and testbench are provided as input to iverilog.
@@ -71,7 +75,7 @@ gtkwave tb_good_mux.vcd
 ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/701e8189-3101-4a82-8134-e799521b9a8b" alt="GTKWave Example" width="70%">
+  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/16a9b52654822bcf5b67c9eea68427bdd053b120/Day_1/gtkwave_sim.png" alt="GTKWave Example" width="70%">
 </div>
 
 ---
@@ -163,7 +167,7 @@ Let’s synthesize the `good_mux` design using Yosys!
     ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4b3a9939-92d0-4efc-ad69-e96faf19e6c3" alt="Yosys Gate-level Schematic" width="70%">
+  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/16a9b52654822bcf5b67c9eea68427bdd053b120/Day_1/yosys_sim.png" alt="Yosys Gate-level Schematic" width="70%">
 </div>
 
 ---
