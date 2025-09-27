@@ -1,6 +1,6 @@
 # Day 2: Timing Libraries, Synthesis Approaches, and Efficient Flip-Flop Coding
 
-Welcome to Day 2 of the RTL Workshop. This day covers three crucial topics:
+Three crucial topics:
 - Understanding the `.lib` timing library (sky130_fd_sc_hd__tt_025C_1v80.lib) used in open-source PDKs.
 - Comparing hierarchical vs. flat synthesis methods.
 - Exploring efficient coding styles for flip-flops in RTL design.
