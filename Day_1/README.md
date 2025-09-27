@@ -19,7 +19,7 @@ The **design** is actual hardware description you wrote (in Verilog/VHDL) that i
 A **testbench** is a separate Verilog/VHDL file that applies inputs and checks outputs of the design in the simulator to verify its correctness.
 
 <div align="center">
-  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/16a9b52654822bcf5b67c9eea68427bdd053b120/Day_1/gtkwave_sim.png" alt="GTKWave Example" width="70%">
+  <img src="https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/2457400e2fdac01844ec6d1d27e12d280917e3ea/Day_1/Digital%20Design%20Verification%20Workflow.png" alt="GTKWave Example" width="70%">
 </div>
 
 ---
