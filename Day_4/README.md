@@ -99,7 +99,7 @@ endmodule
 ```
 - **Function:** `y = i1` if `sel = 1`; else `y = i0`.
 
-![lab1](https://github.com/user-attachments/assets/3f5eb05a-1861-4bb8-940c-6ff9f2af87fb)
+![lab1](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/d7e7f8d6b9a46e7b58885983febcc31d4cf5dd1f/Day_4/lab1.png)
 
 ---
 
@@ -108,7 +108,7 @@ endmodule
 Synthesize the above MUX using Yosys.  
 _Follow the standard Yosys synthesis flow._
 
-![lab2](https://github.com/user-attachments/assets/7a0cdc7c-cbbd-4943-bd3d-130a0d66b9b1)
+![lab2](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/debbc2b3589dd63601b3d356aee7b7c12d264059/Day_4/lab2.png)
 
 ---
 
@@ -121,7 +121,7 @@ Use this command (adjust paths as needed):
 iverilog /path/to/primitives.v /path/to/sky130_fd_sc_hd.v ternary_operator_mux.v testbench.v
 ```
 
-![lab3](https://github.com/user-attachments/assets/9acf45b3-2e42-4ac1-88ae-b4a494cc8d87)
+![lab3](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/a04c98408f602c9e9de056ce1cf520ddd79f06a1/Day_4/lab3.png)
 
 ---
 
@@ -154,7 +154,7 @@ always @ (*) begin
 end
 ```
 
-![lab4](https://github.com/user-attachments/assets/4c2ede06-0605-4ff0-99cb-fc89844b89e4)
+![lab4](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/6efb63611fd12a34002c2d13a292620085ea3b68/Day_4/lab4.png)
 
 ---
 
@@ -163,7 +163,7 @@ end
 Perform GLS on the `bad_mux`.  
 Expect simulation mismatches or warnings due to above issues.
 
-![lab5](https://github.com/user-attachments/assets/2e698404-27b5-4c4a-a811-41b5fc13db77)
+![lab5](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/675598dd130c32b634079a04070ae4cb1cbfb65a/Day_4/lab5.png)
 
 ---
 
@@ -193,7 +193,7 @@ always @ (*) begin
 end
 ```
 
-![lab6](https://github.com/user-attachments/assets/42cac594-0008-4c7b-b415-43e6565b6081)
+![lab6](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/af0513fd048f7cda2ed4e7097e8e0dbf34047e46/Day_4/lab6.png)
 
 ---
 
@@ -201,7 +201,7 @@ end
 
 Synthesize the corrected version of the module and observe the results.
 
-![lab7](https://github.com/user-attachments/assets/833bfacc-3b76-40fa-814c-47f0d783a6e0)
+![lab7](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/e0ed15c011f2ea339400d6621177de0e9d73c6ee/Day_4/lab7.png)
 
 ---
 
