@@ -187,7 +187,7 @@ always @(*) begin
 end
 endmodule
 ```
-![Screenshot_2025-05-28_12-39-30](https://github.com/user-attachments/assets/3f6068f3-726d-4192-b3cd-f88b3611e752)
+![Screenshot_2025-05-28_12-39-30](https://github.com/aneeshbankapur/Introduction-to-tools-for-Verilog-RTL-Design-Synthesis/blob/a00fbcb28dcd063d5f93f60fafc2637f27cfb208/Day_5/lab8.png)
 
 ---
 
