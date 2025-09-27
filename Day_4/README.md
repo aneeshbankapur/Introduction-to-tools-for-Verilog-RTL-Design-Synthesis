@@ -7,8 +7,6 @@ Welcome to Day 4 of the RTL Workshop! Today’s session focuses on three essenti
 - **Blocking vs. Non-Blocking Assignments in Verilog**
 - **Synthesis-Simulation Mismatch**
 
-You’ll learn both the theory and practical implications, complete with hands-on labs to reinforce your understanding.
-
 ---
 
 ## 1. Gate-Level Simulation (GLS)
